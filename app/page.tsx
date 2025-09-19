@@ -129,10 +129,10 @@ export default function Home() {
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    "Java/SpringBoot",
-                    "React.js",
+                    "Java",
+                    "SpringBoot",
                     "TypeScript",
-                    "Python",
+                    "React.js",
                     "Node.js",
                   ].map((skill) => (
                     <span
