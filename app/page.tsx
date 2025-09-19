@@ -239,7 +239,7 @@ export default function Home() {
                 {
                   title: "Portfolio Website Version 1",
                   github: "https://github.com/Kelechiibekwe/kelechi-portfolio",
-                  live: "https://kelechiibekwe.com/",
+                  live: "https://v1.kelechiibekwe.com/",
                   description:
                     "Developed modern Next.js portfolio with smooth animations, dark/light mode, and responsive design. ",
                   tech: ["Next.js", "TypeScript", "Framer Motion"],
