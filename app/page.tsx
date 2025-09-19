@@ -338,8 +338,8 @@ export default function Home() {
                   title: "Design Patterns I've used in my Spring Boot journey",
                   excerpt:
                     "Sharing design patterns I have used in Real Spring boot applications",
-                  date: "Dec 2024",
-                  readTime: "5 min",
+                  date: "Sep 2025",
+                  readTime: "4 min",
                   link: "https://medium.com/@kelechiibekwe/design-patterns-ive-used-in-my-spring-boot-journey-2ed1b8fc937f",
                 },
                 {
